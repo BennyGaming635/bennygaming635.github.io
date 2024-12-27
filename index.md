@@ -1,9 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+title: "Benjamin Graetz"
+permalink: /
+---
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Benjamin Graetz</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Snowburst+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -47,4 +50,3 @@
         Your browser does not support the audio tag.
     </audio>
 </body>
-</html>
