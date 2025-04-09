@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Cities Skylines 2"
+permalink: /tech
+---
 <head>
   <title>Tech Today</title>
   <link rel="icon" type="image/svg" href="images/Smiley.svg">
