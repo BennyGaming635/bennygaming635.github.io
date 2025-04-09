@@ -16,16 +16,13 @@ permalink: /
     <div class="snowflake" style="left: 50%;">❆</div>
     <div class="snowflake" style="left: 70%;">❄</div>
     <div class="snowflake" style="left: 90%;">❅</div>
-
     <header>
         <h1>Benjamin Graetz</h1>
     </header>
-
     <section>
         <h2>About Me</h2>
         <p>Hi! I'm Benjamin Graetz. I love Tech, gaming, and exploring system administration!</p>
     </section>
-
     <section>
         <h2>Interests</h2>
         <ul>
@@ -35,16 +32,13 @@ permalink: /
             <li>SysAdmin - Managing systems and keeping things running smoothly.</li>
         </ul>
     </section>
-
     <section>
         <h2>Festive Cheer</h2>
-        <img src="tree.png" alt="Christmas Tree" class="tree">
+        <img src="images/tree.png" alt="Christmas Tree" class="tree">
     </section>
-
     <footer>
         <p>Made with ❤️ and snowflakes.</p>
     </footer>
-
     <audio autoplay loop volume="0.5">
         <source src="music.mp3" type="audio/mpeg">
         Your browser does not support the audio tag.
