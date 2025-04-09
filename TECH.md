@@ -29,8 +29,7 @@ permalink: /tech
       <p>Flexible phones, foldable tablets, and glasses with built-in AR interfaces are redefining how we interact with our devices.</p>
     </article>
   </section>
-    <a href="bennygaming635.github.io/">
+    <a href="https://bennygaming635.github.io/">
     <button>Home</button>
     </a>
 </body>
-</html>
