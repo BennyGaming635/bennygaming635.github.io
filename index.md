@@ -43,4 +43,10 @@ permalink: /
         <source src="music.mp3" type="audio/mpeg">
         Your browser does not support the audio tag.
     </audio>
+    <a href="bennygaming635.github.io/cs2">
+    <button>CS2</button>
+    </a>
+    <a href="bennygaming635.github.io/tech">
+    <button>Tech</button>
+    </a>
 </body>
