@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Cities Skylines 2"
+title: "Tech Today"
 permalink: /tech
 ---
 <head>
