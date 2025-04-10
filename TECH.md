@@ -5,7 +5,7 @@ permalink: /tech
 ---
 <head>
   <title>Tech Today</title>
-  <link rel="icon" type="image/svg" href="images/Smiley.svg">
+  <link rel="icon" type="image/svg+xml" href="images/Smiley.svg">
   <style>
     body { font-family: 'Segoe UI', sans-serif; background: #f0f0f0; margin: 0; padding: 0; color: #333; }
     header { background: #2196f3; color: white; padding: 20px; text-align: center; }

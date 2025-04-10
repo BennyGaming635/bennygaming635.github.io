@@ -5,7 +5,7 @@ permalink: /cs2
 ---
 <head>
   <title>Cities: Skylines II</title>
-  <link rel="icon" type="image/svg" href="images/Smiley.svg">
+  <link rel="icon" type="image/svg+xml" href="images/Smiley.svg>
   <style>
     body { font-family: Arial, sans-serif; background: #e0f7fa; color: #004d40; margin: 0; padding: 20px; }
     header { background: #00796b; color: white; padding: 20px; text-align: center; }
