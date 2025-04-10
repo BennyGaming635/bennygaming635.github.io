@@ -1,13 +1,67 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tech Today</title>
-  <link rel="icon" href="/images/tree.png" type="image/x-icon">
+  <link rel="icon" href="/images/tree.png" type="image/x-icon" />
   <style>
-    body { font-family: 'Segoe UI', sans-serif; background: #f0f0f0; margin: 0; padding: 0; color: #333; }
-    header { background: #2196f3; color: white; padding: 20px; text-align: center; }
-    section { padding: 20px; }
-    article { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-    h2 { margin-top: 0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    header {
+      background: #2196f3;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+
+    section {
+      padding: 30px 20px;
+    }
+
+    article {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease;
+    }
+
+    article:hover {
+      transform: translateY(-5px);
+    }
+
+    h2 {
+      margin-top: 0;
+      color: #1976d2;
+    }
+
+    button {
+      background-color: #2196f3;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin: 20px;
+    }
+
+    button:hover {
+      background-color: #1976d2;
+    }
+
+    .center {
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -15,18 +69,28 @@
     <h1>Tech Today</h1>
     <p>Your daily scoop on the latest in technology</p>
   </header>
+
   <section>
     <article>
       <h2>AI Advancements in 2025</h2>
-      <p>Artificial intelligence continues to evolve with real-time language translation, autonomous driving breakthroughs, and creative applications in art and music.</p>
+      <p>
+        Artificial intelligence continues to evolve with real-time language translation, autonomous driving breakthroughs,
+        and creative applications in art and music.
+      </p>
     </article>
+
     <article>
       <h2>Gadgets of the Future</h2>
-      <p>Flexible phones, foldable tablets, and glasses with built-in AR interfaces are redefining how we interact with our devices.</p>
+      <p>
+        Flexible phones, foldable tablets, and glasses with built-in AR interfaces are redefining how we interact with our devices.
+      </p>
     </article>
   </section>
+
+  <div class="center">
     <a href="https://bennygaming635.github.io/">
-    <button>Home</button>
+      <button type="button">Home</button>
     </a>
+  </div>
 </body>
 </html>
