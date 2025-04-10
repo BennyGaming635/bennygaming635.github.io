@@ -9,7 +9,7 @@ permalink: /
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Snowburst+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" href="images/tree.png">
+    <link rel="icon" href="/images/tree.png" type="image/x-icon">
 </head>
 <body>
     <div class="snowflake" style="left: 10%;">❄</div>
