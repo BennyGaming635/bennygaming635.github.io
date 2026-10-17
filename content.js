@@ -10,155 +10,112 @@ window.SITE_CONTENT = {
     "Making useful things for the web.",
     "Learning something new, one project at a time."
   ],
-  "portrait": "me-portrait",
+  "portrait": "custom-photo",
   "projects": [
     {
-      "title": "digital book",
-      "subtitle": "reading interface",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-book",
-      "url": "https://www.kelindi.ca/projects/book"
+      "title": "Aero",
+      "subtitle": "flight tracking app",
+      "description": "A flight tracking app.",
+      "asset": "custom-plane",
+      "url": "https://apps.apple.com/us/app/aeropulse/id6807584787"
     },
     {
-      "title": "iPod",
-      "subtitle": "my old personal site",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-ipod",
-      "url": "https://www.kelindi.ca/projects/ipod"
+      "title": "Southbark",
+      "subtitle": "banking",
+      "description": "My banking project.",
+      "asset": "custom-bank",
+      "url": ""
     },
     {
-      "title": "Blade.Garden",
-      "subtitle": "ASCII beyblades",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-beyblades",
-      "url": "https://www.kelindi.ca/projects/beyblades"
-    },
-    {
-      "title": "ikigai",
-      "subtitle": "interactive diagram",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-ikigai",
-      "url": "https://www.kelindi.ca/projects/ikigai"
-    },
-    {
-      "title": "dither station",
-      "subtitle": "a little image experiment",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-dither-station",
-      "url": "https://www.kelindi.ca/projects/dither-station"
-    },
-    {
-      "title": "BMK_00",
-      "subtitle": "physical bookmark",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-bookmark",
-      "url": "https://www.kelindi.ca/projects/bookmark"
-    },
-    {
-      "title": "reel",
-      "subtitle": "a recording interface",
-      "description": "A reference project from Kelindi. Replace this entry with your own project in Customise.",
-      "asset": "project-tp-7",
-      "url": "https://www.kelindi.ca/projects/tp-7"
-    }
-  ],
-  "work": [
-    {
-      "title": "Stan",
-      "subtitle": "Senior Full-Stack Engineer",
-      "description": "Reference entry from Kelindi’s portfolio. Add your own work here.",
-      "asset": "work-stan",
-      "url": "https://www.kelindi.ca/work/stan"
-    },
-    {
-      "title": "Falcon",
-      "subtitle": "Co-Founder",
-      "description": "Reference entry from Kelindi’s portfolio. Add your own work here.",
-      "asset": "work-falcon",
-      "url": "https://www.kelindi.ca/work/falcon"
-    },
-    {
-      "title": "Lilypad",
-      "subtitle": "Founding Engineer",
-      "description": "Reference entry from Kelindi’s portfolio. Add your own work here.",
-      "asset": "work-lilypad",
-      "url": "https://www.kelindi.ca/work/lilypad"
-    },
-    {
-      "title": "Apybara",
-      "subtitle": "Founding Engineer",
-      "description": "Reference entry from Kelindi’s portfolio. Add your own work here.",
-      "asset": "work-apybara",
-      "url": "https://www.kelindi.ca/work/apybara"
-    },
-    {
-      "title": "Protocol Labs",
-      "subtitle": "Software Engineer",
-      "description": "Reference entry from Kelindi’s portfolio. Add your own work here.",
-      "asset": "work-protocollabs",
-      "url": "https://www.kelindi.ca/work/protocol-labs"
+      "title": "ChatNow",
+      "subtitle": "peer-to-peer messaging",
+      "description": "Peer-to-peer messaging in Python, made for Hack Club.",
+      "asset": "custom-chat",
+      "url": "https://github.com/BennyGaming635/ChatNow"
     }
   ],
   "tools": [
     {
-      "title": "zoetrope",
-      "subtitle": "bake an svg into a spinning sprite strip",
-      "description": "Open the original interactive tool on Kelindi’s site.",
-      "asset": "tool-zoetrope",
-      "url": "https://www.kelindi.ca/tools/zoetrope"
+      "title": "HTML",
+      "subtitle": "",
+      "description": "Structure and content for the web.",
+      "asset": "custom-html",
+      "url": ""
     },
     {
-      "title": "emboss",
-      "subtitle": "embossed type for images and favicons",
-      "description": "Open the original interactive tool on Kelindi’s site.",
-      "asset": "tool-emboss",
-      "url": "https://www.kelindi.ca/tools/emboss"
+      "title": "JavaScript",
+      "subtitle": "",
+      "description": "Interactive websites and applications.",
+      "asset": "custom-js",
+      "url": ""
     },
     {
-      "title": "dither cam ↗",
-      "subtitle": "a photo booth that dithers your webcam",
-      "description": "Open the original interactive tool on Kelindi’s site.",
-      "asset": "tool-dither-cam",
-      "url": "https://dither.kelindi.ca"
+      "title": "CSS",
+      "subtitle": "",
+      "description": "Styling, layout, and animation.",
+      "asset": "custom-css",
+      "url": ""
     },
     {
-      "title": "4:3 crop",
-      "subtitle": "crop images and gifs to 4:3",
-      "description": "Open the original interactive tool on Kelindi’s site.",
-      "asset": "tool-crop-4-3",
-      "url": "https://www.kelindi.ca/tools/crop-4-3"
+      "title": "Next.js",
+      "subtitle": "",
+      "description": "Building web applications with React.",
+      "asset": "custom-next",
+      "url": ""
     },
     {
-      "title": "sound lab",
-      "subtitle": "tune the navigation click",
-      "description": "Open the original interactive tool on Kelindi’s site.",
-      "asset": "tool-sound",
-      "url": "https://www.kelindi.ca/tools/sound"
+      "title": "Swift",
+      "subtitle": "",
+      "description": "Apps for Apple platforms.",
+      "asset": "custom-swift",
+      "url": ""
+    },
+    {
+      "title": "Flutter",
+      "subtitle": "",
+      "description": "Apps across platforms.",
+      "asset": "custom-flutter",
+      "url": ""
     }
   ],
   "games": [
     {
-      "title": "doom",
-      "subtitle": "1993 · id Software",
-      "description": "Play Doom on the original site.",
-      "asset": "game-doom",
-      "url": "https://www.kelindi.ca/games/doom"
+      "title": "Cities: Skylines II",
+      "subtitle": "a game I like",
+      "description": "Building and managing cities.",
+      "asset": "custom-city",
+      "url": ""
     },
     {
-      "title": "blade.garden ↗",
-      "subtitle": "ASCII beyblades",
-      "description": "Build a beyblade and watch it battle.",
-      "asset": "game-blade-garden",
-      "url": "https://blade.garden"
+      "title": "Minecraft",
+      "subtitle": "a game I like",
+      "description": "Building, exploring, and creating.",
+      "asset": "custom-minecraft",
+      "url": ""
+    },
+    {
+      "title": "The Sims 4",
+      "subtitle": "a game I like",
+      "description": "Making stories and managing lives.",
+      "asset": "custom-sims",
+      "url": ""
     }
   ],
   "socials": [
     {
       "title": "GitHub",
-      "subtitle": "",
-      "description": "",
+      "subtitle": "BennyGaming635",
+      "description": "My code and projects.",
       "asset": "social-github-brand",
-      "url": "https://github.com/bennygaming635"
+      "url": "https://github.com/BennyGaming635"
+    },
+    {
+      "title": "Email",
+      "subtitle": "benjamingraetz@icloud.com",
+      "description": "Get in touch.",
+      "asset": "custom-email",
+      "url": "mailto:benjamingraetz@icloud.com"
     }
-  ]
+  ],
+  "portraitUrl": "assets/benny/github-avatar.png"
 };
